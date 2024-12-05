@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spam Email Detection</title>
+    <link rel="stylesheet" href="static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Spam Email Detection</h2>
+        <form action="/predict" method="POST">
+            <textarea name="emailInput" rows="5" placeholder="Enter email content here" required></textarea>
+            <button type="submit">Check if it's Spam</button>
+        </form>
+    </div>
+</body>
+</html>
