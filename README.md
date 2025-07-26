@@ -4,6 +4,8 @@ A lightweight Flask web app that detects whether an input email is Spam or Not S
 
 ## 🗂️ Project Structure
 
+```
+
 FAKE_EMAIL_DET/
 ├── static/
 │   └── styles.css                      - Styling for the web app
@@ -20,6 +22,8 @@ FAKE_EMAIL_DET/
 ├── Screenshot 2024-12-05 150703.png    - Screenshot of input form
 ├── Screenshot 2024-12-05 150714.png    - Screenshot of result display
 ├── README.md                           - Project documentation
+```
+```
 
 ## 🚀 Features
 
