@@ -33,6 +33,8 @@ FAKE_EMAIL_DET/
 - Clean UI using HTML/CSS and Flask
 - Model and vectorizer saved using pickle
 
+```
+```
 ## 📷 Screenshots
 
 Screenshots of the app interface:
@@ -44,7 +46,7 @@ Input Form:
 Prediction Result:
 ![Input Form](./Screenshot%202024-12-05%20150714.png)
 
-
+```
 ## 🧠 How It Works
 
 1. Preprocess email text: lowercase, strip digits/punctuation, remove stopwords, lemmatize
@@ -87,7 +89,8 @@ This will:
 - Preprocess and vectorize the text
 - Train the Logistic Regression model
 - Save spam_classifier_model.pkl and vectorizer.pkl
-
+```
+```
 ## ✍️ Author
 
 PRASHANTHA – Computer Science Engineer & Developer
@@ -98,6 +101,8 @@ PRASHANTHA – Computer Science Engineer & Developer
 - Use a large dataset like Enron email dataset
 - Deploy to Heroku or Render
 - Improve UI with result graphs or classification explanation
+
+```
 
 ## 📜 License
 
